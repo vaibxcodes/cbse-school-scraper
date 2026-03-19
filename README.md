@@ -19,9 +19,9 @@
 
 ## 📊 Workflow
 
-![Workflow](assets/flowchart.png)
+![Workflow]
 <p align="center">
-  <img src="assets/flowchart.png" width="600"/>
+  <img src="assets/flowchart.png" width="500"/>
 </p>
 ---
 
