@@ -20,7 +20,9 @@
 ## 📊 Workflow
 
 ![Workflow](assets/flowchart.png)
-
+<p align="center">
+  <img src="assets/flowchart.png" width="600"/>
+</p>
 ---
 
 ## ⚡ Sample Output
